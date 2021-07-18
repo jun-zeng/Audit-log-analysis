@@ -1,0 +1,12 @@
+-a never,exit -S all -F subj_type=pulseaudio_t -F subj_type=ntpd_t -F subj_type=cron_t
+
+## Cron jobs fill the logs with stuff we normally don't want (works with SELinux) 
+-a never,user -F subj_type=crond_t
+-a exit,never -F subj_type=crond_t
+-a never,user -F subj_type=cron_t
+-a exit,never -F subj_type=cron_t
+-a never,exit -F dir=/var/cache
+-a never,exit -F dir=/root/.cache
+-a never,exit -F dir=/proc
+
+-a always,exit -S read,write,open,close,clone,fork,vfork,execve,kill,openat,sendto,recvfrom,sendfile,sendmsg,sendmmsg,recvmsg,recvmmsg,connect,socket,unlink,link,linkat,unlinkat,rmdir,mkdir,rename,pipe,pipe2,dup,dup2,getpeername,fcntl
