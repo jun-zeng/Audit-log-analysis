@@ -99,6 +99,7 @@ The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/mast
 - Tactical Provenance Analysis for Endpoint Detection and Response Systems. W. U. Hassan, et al. SP'2020 [paper](https://adambates.org/documents/Hassan_Oakland20.pdf)
 - ATLAS: A Sequence-based Learning Approach for Attack Investigation. A. Alsaheel, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21summer_alsaheel.pdf)
 - SIGL: Securing Software Installations Through Deep Graph Learning. Han Xueyuan, et al. Security'2021 [paper](https://arxiv.org/pdf/2008.11533.pdf)
+- TRACE: Enterprise-Wide Provenance Tracking for Real-Time APT Detection. Hassaan Irshad, et al. Information Forensic and Security'2021 [paper](http://www.csl.sri.com/users/gehani/papers/TIFS-2021.TRACE.pdf)
 
 ## Limitations
 #### Space Overhead
