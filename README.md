@@ -111,6 +111,8 @@ The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/mast
 - NodeMerge: Template Based Efficient Data Reduction For Big-Data Causality Analysis. Y. Tang, et al. CCS'2018 [paper](https://kangkookjee.github.io/publications/nodemerge-ccs2018.pdf)
 - APTrace: A Responsive System for Agile Enterprise Level Causality Analysis. Gui, et, al. ICDE'2020 [paper](https://ieeexplore.ieee.org/document/9101446/)
 - On the Forensic Validity of Approximated Audit Logs. N. Michael, et al. ACSAC'2020. [paper](https://adambates.org/documents/Michael_Acsac20.pdf)
+- Elise: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning. Hailun Ding, et al. Security'2021. [paper](https://www.usenix.org/system/files/sec21-ding.pdf)
+- SEAL: Storage-efficient Causality Analysis on Enterprise Logs with Query-friendly Compression. P. Fei, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-fei.pdf) 
 
 #### Dependency Explosion
 - Forensic analysis of file system intrusions using improved backtracking, S. Sitaraman and S. Venkatesan. IWIA'2005 [paper](https://dl.acm.org/doi/10.1109/IWIA.2005.9)
@@ -137,8 +139,6 @@ The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/mast
 - Runtime Analysis of Whole-System Provenance. T. Pasquier, et al. CCS'2018 [paper](https://arxiv.org/pdf/1808.06049.pdf)
 - Graalf: Supporting graphical analysis of audit logs for forensics. O. Setayeshfar, et al. arXiv'2019 [paper](https://arxiv.org/pdf/1909.00902.pdf)
 - Poirot: Aligning attack behavior with kernel audit records for cyber threat hunting. S. M Milajerdi, et al. CCS'2019 [paper](https://smomen2.people.uic.edu/publications/POIROT.pdf)
-- SEAL: Storage-efficient Causality Analysis on Enterprise Logs with Query-friendly Compression. P. Fei, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-fei.pdf) 
-
 
 ## Integrity
 - Forward integrity for secure audit logs. M. Bellare and B. Yee. Tech. Rep. 1997 [paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.28.7970)
