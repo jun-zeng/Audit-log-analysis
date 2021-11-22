@@ -130,6 +130,7 @@ The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/mast
 - Omega-Log: High-fidelity attack investigation via transparent multi-layer log analysis. Hassan, Wajih Ul, et al. NDSS'2020 [paper](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24270-paper.pdf)
 - Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics. M. N. Hossain, et al. SP'2020 [paper](http://seclab.cs.sunysb.edu/seclab/pubs/morse20.pdf)
 - ALchemist: Fusing Application and Audit Logs for Precise Attack Provenance without Instrumentation. Le Yu, et al. NDSS'2021 [paper](https://www.ndss-symposium.org/wp-content/uploads/2021-445-paper.pdf)
+- Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks. Y. Carter, et al. CCS'2021 [paper](https://dl.acm.org/doi/pdf/10.1145/3460120.3484551)
 
 ## Query
 - Behavior query discovery in system-generated temporal graphs. B. Zong, et al. VLDB'2015 [paper](http://www.vldb.org/pvldb/vol9/p240-zong.pdf)
