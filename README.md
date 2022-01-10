@@ -6,6 +6,7 @@ Note that audit logs are different from [application logs](https://github.com/lo
 I highly suggest the beginners start their log analysis journey from [Backtracking intrusions](https://pdos.csail.mit.edu/6.828/2010/readings/backtracking.pdf) as this study is the pioneer at this line of research. 
 
 - [Table of contents](#table-of-contents)
+	- [Dataset](#dataset)
 	- [Survey](#survey)
 	- [Definition](#definition)
 	- [Generation](#generation)
@@ -20,6 +21,9 @@ I highly suggest the beginners start their log analysis journey from [Backtracki
 	- [Query](#query)
 	- [Integrity](#integrity)
 	- [CTI](#cti)
+
+## Dataset
+The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/master/README-E3.md) is a publicly available APT attack dataset released by the DARPA Transparent Computing (TC) program. The dataset was derived from a network of hosts during a two-week-long red-team vs. blue-team adversarial Engagement.
 
 ## Survey
 - Threat Detection and Investigation with System-level Provenance Graphs: A Survey. Zhenyuan, et al. arxiv'2020 [paper](https://arxiv.org/pdf/2006.01722.pdf)
@@ -45,9 +49,6 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - `Linux` [Auditd](https://github.com/linux-audit)/[Auditbeat](https://www.elastic.co/beats/auditbeat): kernel-level tracing facility for Linux. Here is a simplified version of [auditd rules](audit.rules_example) used in our research project [WATSON](https://www.ndss-symposium.org/wp-content/uploads/2021-549-paper.pdf).
 - `Windows` [ETW](https://docs.microsoft.com/en-us/windows/win32/etw/about-event-tracing): kernel-level tracing facility for Windows
 - `FreeBSD` [Dtrace](https://wiki.freebsd.org/DTrace): kernel-level tracing facility for FreeBSD
-
-## Dataset
-The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/master/README-E3.md) is a publicly available APT attack dataset released by the DARPA Transparent Computing (TC) program. The dataset was derived from a network of hosts during a two-week-long red-team vs. blue-team adversarial Engagement.
 
 #### Literature
 - Forensix: A robust, high-performance reconstruction system. A. Goel, et al. Distributed computing systems workshops 2005 [paper](https://thefengs.com/wuchang/papers/sdcs05_forensix_full.pdf)
