@@ -63,6 +63,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - Kernel-Supported Cost-Effective Audit Logging for Causality Tracking. S. Ma, et al. ATC'2018 [paper](https://www.usenix.org/system/files/conference/atc18/atc18-ma-shiqing.pdf)
 - Xanthus: Push-button Orchestration of Host Provenance Data Collection. Han X., et al. P-RECS'2020 [paper](https://arxiv.org/pdf/2005.04717.pdf)
 - CLARION: Sound and Clear Provenance Tracking for Microservice Deployments. Chen X. Security'2022 [paper](https://www.usenix.org/system/files/sec21-chen-xutong.pdf)
+- ALASTOR: Reconstructing the Provenance of Serverless Intrusions. P. Datta., et al. Security'2022 [paper](https://adambates.org/documents/Datta_Sec22.pdf)
 
 ## SIEM
 #### Forensic Analysis
@@ -78,7 +79,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - LPROV: Practical Library-aware Provenance Tracing. F. Wang, et al. ACSAC'2018 [paper](https://yonghwi-kwon.github.io/data/lprov_acsac18.pdf)
 - This is Why We Can't Cache Nice Things: Lightning-Fast Threat Hunting using Suspicion-Based Hierarchical Storage. W. U. Hassan, et al. ACSAC'2020 [paper](https://adambates.org/documents/Hassan_Acsac20.pdf)
 - WATSON: Abstracting Behaviors from Audit Logs via Aggregation of Contextual Semantics. Jun Z, et al. NDSS'2021 [paper](https://www.ndss-symposium.org/wp-content/uploads/2021-549-paper.pdf)
-
+- Forensic Analysis of Configuration-based Attacks. M. Adil Inam, et al. NDSS'2022 [paper](https://adambates.org/documents/Inam_Ndss22.pdf)
 
 #### Attack Detection
 - Detecting intrusions using system calls: Alternative data models. C. Warrender, et al. SP'1999 [paper](http://wenke.gtisc.gatech.edu/ids-readings/system_call_models.pdf)
@@ -101,7 +102,6 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - ATLAS: A Sequence-based Learning Approach for Attack Investigation. A. Alsaheel, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21summer_alsaheel.pdf)
 - SIGL: Securing Software Installations Through Deep Graph Learning. Han Xueyuan, et al. Security'2021 [paper](https://arxiv.org/pdf/2008.11533.pdf)
 - TRACE: Enterprise-Wide Provenance Tracking for Real-Time APT Detection. Hassaan Irshad, et al. Information Forensic and Security'2021 [paper](http://www.csl.sri.com/users/gehani/papers/TIFS-2021.TRACE.pdf)
-- Forensic Analysis of Configuration-based Attacks. M. Adil Inam, et al. NDSS'2022 paper
 
 ## Limitations
 #### Space Overhead
