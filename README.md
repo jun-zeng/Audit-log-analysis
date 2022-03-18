@@ -62,7 +62,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - Fear and logging in the internet of things. Q. Wang, et al. NDSS'2018 [paper](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf)
 - Kernel-Supported Cost-Effective Audit Logging for Causality Tracking. S. Ma, et al. ATC'2018 [paper](https://www.usenix.org/system/files/conference/atc18/atc18-ma-shiqing.pdf)
 - Xanthus: Push-button Orchestration of Host Provenance Data Collection. Han X., et al. P-RECS'2020 [paper](https://arxiv.org/pdf/2005.04717.pdf)
-- CLARION: Sound and Clear Provenance Tracking for Microservice Deployments. Chen X. Security'2022 [paper](https://www.usenix.org/system/files/sec21-chen-xutong.pdf)
+- CLARION: Sound and Clear Provenance Tracking for Microservice Deployments. Chen X. Security'2021 [paper](https://www.usenix.org/system/files/sec21-chen-xutong.pdf)
 - ALASTOR: Reconstructing the Provenance of Serverless Intrusions. P. Datta., et al. Security'2022 [paper](https://adambates.org/documents/Datta_Sec22.pdf)
 
 ## SIEM
