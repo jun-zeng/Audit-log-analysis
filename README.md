@@ -65,6 +65,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - CLARION: Sound and Clear Provenance Tracking for Microservice Deployments. Chen X. Security'2021 [paper](https://www.usenix.org/system/files/sec21-chen-xutong.pdf)
 - ALASTOR: Reconstructing the Provenance of Serverless Intrusions. P. Datta., et al. Security'2022 [paper](https://adambates.org/documents/Datta_Sec22.pdf)
 - ProvTalk: Towards Interpretable Multi-level Provenance Analysis in Networking Functions Virtualization (NFV). Tabiban A., et al. NDSS'2022 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-103-paper.pdf)
+- Towards Efficient Auditing for Real-Time Systems. Bansal A., et al. ESORICS'2022 [paper](https://adambates.org/documents/Bansal_Esorics22.pdf)
 
 ## SIEM
 #### Forensic Analysis
@@ -81,6 +82,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - This is Why We Can't Cache Nice Things: Lightning-Fast Threat Hunting using Suspicion-Based Hierarchical Storage. W. U. Hassan, et al. ACSAC'2020 [paper](https://adambates.org/documents/Hassan_Acsac20.pdf)
 - WATSON: Abstracting Behaviors from Audit Logs via Aggregation of Contextual Semantics. Jun Z, et al. NDSS'2021 [paper](https://www.ndss-symposium.org/wp-content/uploads/2021-549-paper.pdf)
 - Forensic Analysis of Configuration-based Attacks. M. Adil Inam, et al. NDSS'2022 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-57-paper.pdf)
+- Back-Propagating System Dependency Impact for Attack Investigation. PengCheng Fang, et al. Security'2022 [paper](https://www.usenix.org/system/files/sec22summer_fang.pdf)
 - DEPCOMM: Graph Summarization on System Audit Logs for Attack Investigation. Zhiqiang Xu, et al. SP'2022 [paper](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/depcomm-ieeesp2022.pdf)
 
 #### Attack Detection
@@ -136,6 +138,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics. M. N. Hossain, et al. SP'2020 [paper](http://seclab.cs.sunysb.edu/seclab/pubs/morse20.pdf)
 - ALchemist: Fusing Application and Audit Logs for Precise Attack Provenance without Instrumentation. Le Yu, et al. NDSS'2021 [paper](https://www.ndss-symposium.org/wp-content/uploads/2021-445-paper.pdf)
 - Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks. Y. Carter, et al. CCS'2021 [paper](https://dl.acm.org/doi/pdf/10.1145/3460120.3484551)
+- PalanTír: Optimizing Attack Provenance with Hardware-enhanced System Observability. Jun and Chuqi, et al. CCS'2022 [paper](https://jun-zeng.github.io/file/palantir_paper.pdf)
 
 ## Query
 - Behavior query discovery in system-generated temporal graphs. B. Zong, et al. VLDB'2015 [paper](http://www.vldb.org/pvldb/vol9/p240-zong.pdf)
