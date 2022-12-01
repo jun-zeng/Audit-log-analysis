@@ -26,7 +26,8 @@ I highly suggest the beginners start their log analysis journey from [Backtracki
 The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/master/README-E3.md) is a publicly available APT attack dataset released by the DARPA Transparent Computing (TC) program. The dataset was derived from a network of hosts during a two-week-long red-team vs. blue-team adversarial Engagement.
 
 ## Survey
-- Threat Detection and Investigation with System-level Provenance Graphs: A Survey. Zhenyuan, et al. arxiv'2020 [paper](https://arxiv.org/pdf/2006.01722.pdf)
+- Threat Detection and Investigation with System-level Provenance Graphs: A Survey. Zhenyuan, et al. Computer & Security'2021 [paper](https://li-zhenyuan.github.io/files/PG_survey.pdf)
+- SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions, Muhammad Adil Inam, et al. SP'2023 [paper](https://adambates.org/documents/Inam_Oakland23_DRAFT.pdf)
 
 ## Definition
 Every event in audit logs represents an OS-level system activity such as process creation, file access, and network connection. Here, we use read and execve activities as examples to illustrate log events.
@@ -107,6 +108,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - SIGL: Securing Software Installations Through Deep Graph Learning. Han Xueyuan, et al. Security'2021 [paper](https://arxiv.org/pdf/2008.11533.pdf)
 - TRACE: Enterprise-Wide Provenance Tracking for Real-Time APT Detection. Hassaan Irshad, et al. Information Forensic and Security'2021 [paper](http://www.csl.sri.com/users/gehani/papers/TIFS-2021.TRACE.pdf)
 - ShadeWatcher: Recommendation-guided Cyber Threat Analysis using System Audit Records. Jun Zeng, et al. SP'2022 [paper](https://jun-zeng.github.io/file/shadewatcher_paper.pdf)
+- DISTDET: A Cost-Effective Distributed Cyber Threat Detection System. Feng Dong, et al. Security'2023 [paper](https://www.usenix.org/system/files/sec23summer_8-dong-prepub.pdf)
 
 ## Limitations
 #### Space Overhead
