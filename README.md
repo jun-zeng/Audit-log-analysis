@@ -27,7 +27,7 @@ The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/mast
 
 ## Survey
 - Threat Detection and Investigation with System-level Provenance Graphs: A Survey. Zhenyuan, et al. Computer & Security'2021 [paper](https://li-zhenyuan.github.io/files/PG_survey.pdf)
-- SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions, Muhammad Adil Inam, et al. SP'2023 [paper](https://adambates.org/documents/Inam_Oakland23_DRAFT.pdf)
+- SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions, Muhammad Adil Inam, et al. SP'2023 [paper](https://adambates.org/documents/Inam_Oakland23.pdf)
 
 ## Definition
 Every event in audit logs represents an OS-level system activity such as process creation, file access, and network connection. Here, we use read and execve activities as examples to illustrate log events.
@@ -85,6 +85,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - Forensic Analysis of Configuration-based Attacks. M. Adil Inam, et al. NDSS'2022 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-57-paper.pdf)
 - Back-Propagating System Dependency Impact for Attack Investigation. PengCheng Fang, et al. Security'2022 [paper](https://www.usenix.org/system/files/sec22summer_fang.pdf)
 - DEPCOMM: Graph Summarization on System Audit Logs for Attack Investigation. Zhiqiang Xu, et al. SP'2022 [paper](https://engineering.case.edu/groups/xusheng-xiao/sites/engineering.case.edu.groups.xusheng-xiao/files/docs/depcomm-ieeesp2022.pdf)
+- RAPID: Real-Time Alert Investigation with Context-aware Prioritization for Efficient Threat Discovery. Yushan Liu, et al. ACSAC'2022 [paper](https://dl.acm.org/doi/pdf/10.1145/3564625.3567997)
 
 #### Attack Detection
 - Detecting intrusions using system calls: Alternative data models. C. Warrender, et al. SP'1999 [paper](http://wenke.gtisc.gatech.edu/ids-readings/system_call_models.pdf)
@@ -122,6 +123,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - On the Forensic Validity of Approximated Audit Logs. N. Michael, et al. ACSAC'2020. [paper](https://adambates.org/documents/Michael_Acsac20.pdf)
 - Elise: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning. Hailun Ding, et al. Security'2021. [paper](https://www.usenix.org/system/files/sec21-ding.pdf)
 - SEAL: Storage-efficient Causality Analysis on Enterprise Logs with Query-friendly Compression. P. Fei, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-fei.pdf) 
+- FAuST: Striking a Bargain between Forensic Auditing’s Security and Throughput. Muhammad Adil Inam, et al. ACSAC'2022 [paper](https://dl.acm.org/doi/pdf/10.1145/3564625.3567990)
 
 #### Dependency Explosion
 - Forensic analysis of file system intrusions using improved backtracking, S. Sitaraman and S. Venkatesan. IWIA'2005 [paper](https://dl.acm.org/doi/10.1109/IWIA.2005.9)
