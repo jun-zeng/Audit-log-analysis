@@ -110,6 +110,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - TRACE: Enterprise-Wide Provenance Tracking for Real-Time APT Detection. Hassaan Irshad, et al. Information Forensic and Security'2021 [paper](http://www.csl.sri.com/users/gehani/papers/TIFS-2021.TRACE.pdf)
 - ShadeWatcher: Recommendation-guided Cyber Threat Analysis using System Audit Records. Jun Zeng, et al. SP'2022 [paper](https://jun-zeng.github.io/file/shadewatcher_paper.pdf)
 - DISTDET: A Cost-Effective Distributed Cyber Threat Detection System. Feng Dong, et al. Security'2023 [paper](https://www.usenix.org/system/files/sec23summer_8-dong-prepub.pdf)
+- Sometimes, You Aren’t What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems. Akul Goyal, et al. NDSS'2023 [paper](https://adambates.org/documents/Goyal_Ndss23.pdf)
 
 ## Limitations
 #### Space Overhead
