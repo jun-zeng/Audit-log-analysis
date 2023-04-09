@@ -111,6 +111,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - ShadeWatcher: Recommendation-guided Cyber Threat Analysis using System Audit Records. Jun Zeng, et al. SP'2022 [paper](https://jun-zeng.github.io/file/shadewatcher_paper.pdf)
 - DISTDET: A Cost-Effective Distributed Cyber Threat Detection System. Feng Dong, et al. Security'2023 [paper](https://www.usenix.org/system/files/sec23summer_8-dong-prepub.pdf)
 - Sometimes, You Aren’t What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems. Akul Goyal, et al. NDSS'2023 [paper](https://adambates.org/documents/Goyal_Ndss23.pdf)
+- PROGRAPHER: An Anomaly Detection System based on Provenance GraphEmbedding. Fan Yang, et al. Security'2023 [paper](https://www.usenix.org/system/files/sec23fall-prepub-219-yang-fan.pdf)
 
 ## Limitations
 #### Space Overhead
@@ -125,6 +126,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - Elise: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning. Hailun Ding, et al. Security'2021. [paper](https://www.usenix.org/system/files/sec21-ding.pdf)
 - SEAL: Storage-efficient Causality Analysis on Enterprise Logs with Query-friendly Compression. P. Fei, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-fei.pdf) 
 - FAuST: Striking a Bargain between Forensic Auditing’s Security and Throughput. Muhammad Adil Inam, et al. ACSAC'2022 [paper](https://dl.acm.org/doi/pdf/10.1145/3564625.3567990)
+- The Case for Learned Provenance Graph Storage Systems. Hailun Ding, et al. Security'23 [paper](https://www.usenix.org/system/files/sec23fall-prepub-330-ding-hailun.pdf)
 
 #### Dependency Explosion
 - Forensic analysis of file system intrusions using improved backtracking, S. Sitaraman and S. Venkatesan. IWIA'2005 [paper](https://dl.acm.org/doi/10.1109/IWIA.2005.9)
