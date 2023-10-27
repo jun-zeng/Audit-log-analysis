@@ -29,7 +29,6 @@ The [DARPA dataset](https://github.com/darpa-i2o/Transparent-Computing/blob/mast
 ## Survey
 - Threat Detection and Investigation with System-level Provenance Graphs: A Survey. Zhenyuan, et al. Computer & Security'2021 [paper](https://li-zhenyuan.github.io/files/PG_survey.pdf)
 - SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions, Muhammad Adil Inam, et al. SP'2023 [paper](https://adambates.org/documents/Inam_Oakland23.pdf)
-- Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications. Hanwen Lei, et al. CCS'2023 [paper]()
 
 ## Definition
 Every event in audit logs represents an OS-level system activity such as process creation, file access, and network connection. Here, we use read and execve activities as examples to illustrate log events.
