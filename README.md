@@ -114,6 +114,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - DISTDET: A Cost-Effective Distributed Cyber Threat Detection System. Feng Dong, et al. Security'2023 [paper](https://www.usenix.org/system/files/sec23summer_8-dong-prepub.pdf)
 - PROGRAPHER: An Anomaly Detection System based on Provenance GraphEmbedding. Fan Yang, et al. Security'2023 [paper](https://www.usenix.org/system/files/sec23fall-prepub-219-yang-fan.pdf)
 - NodLink: An Online System for Fine-Grained APT Attack Detection and Investigation. Shaofei Li, et al. NDSS'2024 [paper]()
+- MAGIC: Detecting Advanced Persistent Threats via Masked Graph Representation Learning. Zian Jia, et al. Security'2024 [paper](https://www.usenix.org/system/files/sec23winter-prepub-490-jia.pdf)
 
 #### Evasion
 - Sometimes, You Aren’t What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems. Akul Goyal, et al. NDSS'2023 [paper](https://adambates.org/documents/Goyal_Ndss23.pdf)
