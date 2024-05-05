@@ -69,6 +69,7 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - ALASTOR: Reconstructing the Provenance of Serverless Intrusions. P. Datta., et al. Security'2022 [paper](https://adambates.org/documents/Datta_Sec22.pdf)
 - ProvTalk: Towards Interpretable Multi-level Provenance Analysis in Networking Functions Virtualization (NFV). Tabiban A., et al. NDSS'2022 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-103-paper.pdf)
 - Towards Efficient Auditing for Real-Time Systems. Bansal A., et al. ESORICS'2022 [paper](https://adambates.org/documents/Bansal_Esorics22.pdf)
+- eAudit: A Fast, Scalable and Deployable Audit Data Collection System. R. Sekar, et al. [paper](http://seclab.cs.sunysb.edu/seclab/pubs/eaudit.pdf).
 
 ## SIEM
 #### Forensic Analysis
@@ -115,7 +116,10 @@ type=SYSCALL msg=audit(16/05/2019 16:18:30.752:49036555) : arch=x86_64 syscall=e
 - PROGRAPHER: An Anomaly Detection System based on Provenance GraphEmbedding. Fan Yang, et al. Security'2023 [paper](https://www.usenix.org/system/files/sec23fall-prepub-219-yang-fan.pdf)
 - NodLink: An Online System for Fine-Grained APT Attack Detection and Investigation. Shaofei Li, et al. NDSS'2024 [paper]()
 - MAGIC: Detecting Advanced Persistent Threats via Masked Graph Representation Learning. Zian Jia, et al. Security'2024 [paper](https://www.usenix.org/system/files/sec23winter-prepub-490-jia.pdf)
-- You Cannot Escape Me: Detecting Evasions of SIEM Rules in Enterprise Networks. Rafael Uetz. et al. Security'2024 [paper](https://www.usenix.org/system/files/sec23winter-prepub-112-uetz.pdf)
+- You Cannot Escape Me: Detecting Evasions of SIEM Rules in Enterprise Networks. Rafael Uetz, et al. Security'2024 [paper](https://www.usenix.org/system/files/sec23winter-prepub-112-uetz.pdf)
+- KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance. Zijun Cheng, et al. SP'2024 [paper](https://tfjmp.org/publications/2024-sp.pdf)
+- FLASH: A Comprehensive Approach to Intrusion Detection via Provenance Graph Representation Learning. Mati Ur Rehman, et al. [paper](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2024/3130/00/313000a139.pdf?Expires=1714898414&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjQvMzEzMC8wMC8zMTMwMDBhMTM5LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNDg5ODQxNH19fV19&Signature=rQKAPyzR71DmOyKUIeYjmPSQPsSxVR1OKdKtWtZJqkcG81rvxXZz2yR49BqOaic08-tcU3fJdrc1CW8Nc8Y95ciTqBuMj0JLzf0~Mfq-LC7ZLXDL3QleD-rIQGMMC6d09Yn83R0JUmQsCrNcIvS2Ukt3v8730x89S0uSIKQ2d-VetAYHxQt3VtgbedLkUGuz2Z5LV7MXRBI8gb2YNu0LOOfK-XH989zaMuD~e8Ws1zkyk-A3NwnyYaHc3WTh3-CwBuSHDgTIJk0eSc2WTcWQCcND0z6-AejeYrHSZ11NIZZNaKYPIy1Ye4MbHjPzhTj96wc6vbu5I2MeNezNlS-F3w__&Key-Pair-Id=K12PMWTCQBDMDT).
+- R-CAID: Embedding Root Cause Analysis within Provenance-based Intrusion Detection. Akul Goyal, et al. SP'2024 [paper](https://adambates.org/documents/Goyal_Oakland24.pdf).
 
 #### Evasion
 - Sometimes, You Aren’t What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems. Akul Goyal, et al. NDSS'2023 [paper](https://adambates.org/documents/Goyal_Ndss23.pdf)
